@@ -1,4 +1,4 @@
-<img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40"> 
+<img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
 
 # The DigitalRhythms project
 
@@ -21,18 +21,16 @@ When you are ready to help with some Android timestamps data, click <a href="htt
 
 # About Us and Contact details
 
-The de la Iglesia lab at the Department of Biology in the University of Washington is focused on studying the biological rhythms of sleep and behavior in animal models and humans. One of our main interests is the study of human sleep in real life situations, specially under what you may call "unconventional situations": during a lockdown in the middle of pandemic, in communities living in isolation with no access to electricity, in persons experiencing homelessness, and others.
+The <a href="http://depts.washington.edu/delaiglesialab/wordpress/">de la Iglesia lab </a> at the Department of Biology in the University of Washington is focused on studying the biological rhythms of sleep and behavior in animal models and humans. One of our main interests is the study of human sleep in real life situations, specially under what you may call "unconventional situations": during a lockdown in the middle of pandemic, in communities living in isolation with no access to electricity, in persons experiencing homelessness, and others.
 
 Feel free to contact us regarding any concerns or suggestions.
 
-### Study Coordinator: 
+### Study Coordinator:
 
-**Leandro Casiraghi**, Department of Biology, University of Washington, (206) 225-4330, 
-
+**Leandro Casiraghi**, Department of Biology, University of Washington, (206) 225-4330,
 email: <a href="mailto:lcasira@uw.edu">lcasira@uw.edu</a>
 
-### Lead Researcher: 
+### Lead Researcher:
 
-**Horacio de la Iglesia**, Department of Biology, University of Washington, (206) 616-4697, 
-
+**Horacio de la Iglesia**, Department of Biology, University of Washington, (206) 616-4697,
 email: <a href="mailto:horaciod@uw.edu">horaciod@uw.edu</a>
