@@ -1,16 +1,14 @@
-# Step 2 of 2: Consent and Initial Questionnaire
+# Step 2 of 2: Initial Questionnaire and File Upload
 
-Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward.
+Please make sure you have correctly obtained your data file, and that you have already viewed its contents, and that are comfortable with sharing it before moving forward.
 
-1.  First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
-<img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40">
+Once you are ready, fill out the following questionnaire and upload your file.
 
-2. Finally, fill out the following initial questionnaire and upload your file through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">Google Form</a>.
-
-  <img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
 
 ### And you're done!
-#### We truly appreciate your effort to help us in our research and hope that it did not take too much of your time. A sincere big THANK YOU from the *de la Iglesia lab*!
+#### We truly appreciate your effort to help us in our research and hope that it did not take too much of your time.
+
 
 <hr>
 
