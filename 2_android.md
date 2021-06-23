@@ -55,7 +55,9 @@ Once you click "Create export" you will see a new banner like the one below, in 
 
 The process should only take about 5 minutes. **However, you may receive a notification on your phone and/or an e-mail from Google asking you to confirm that it was indeed you who requested an export. You will most probably not receive a download link for your file until you open that e-mail/notification and confirm**.
 
-So you can sit back and wait to hear from Google, which can take as little or as long depending on the current workload of the Takeout platform. Alternatively, should you reload the page, you will find a new banner on top, with a button to **"Manage Exports"**, as shown below.
+So you can sit back and wait to hear from Google, which can take as little or as long depending on the current workload of the Takeout platform. Feel free to come back to this point whenever you have the time to continue. Maybe better to go for a walk, take a bite, do some yoga stretches, or call a friend - just don't keep your eyes on the computer waiting for the file to be available :)
+
+Should you reload the page, you will find a new banner on top, with a button to **"Manage Exports"**, as shown below.
 
 
 ![8](https://user-images.githubusercontent.com/68754864/96494602-3333e280-1264-11eb-9783-3fd16e0bfc68.png)
